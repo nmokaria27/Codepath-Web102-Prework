@@ -2,7 +2,8 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    /* background-color: #758190; */
+    background-color: #5A8EC4;
 }
 
 #tentacles {
@@ -11,7 +12,8 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: #70d0ebf5;
+    /* background-color: rgb(98, 157, 178); */
     padding: 1%;
     align-items: center;
     margin-left: -10px;
