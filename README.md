@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/nmokaria27/web102_prework/blob/main/Web102-walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nmokaria27/Codepath-Web102-Prework/blob/main/web102-walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
